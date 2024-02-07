@@ -1,4 +1,24 @@
-html {
-  height: 100%;
-  width: 100%;
+body {
+  background-color: #867474;
+  color: #333;
+  font-family: integral cf, sans-serif;
+}
+
+header {
+  background-color: #6d93ba;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+#about {
+  padding: 1em;
+}
+
+#projects {
+  padding: 1em;
 }
